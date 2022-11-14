@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(86, 64, 100);
+    margin: 2% auto;
+    font-family: 'Handlee', cursive;
+}
+.barra{
+    background-color: transparent;
+    box-shadow: 10px 15px 20px black;
+}
+.lista{
+    color: white;
+    font-weight: bold;
+}
+.presentacion{
+    text-align: center;
+    width: 100%;
+    margin: 5%;
+}
+.caja1{
+    padding: 30%;
+    text-align: center;
+    color: white;
+}
+.linea{
+    background-color: white;
+    text-align: center;
+    width: 40%;
+}
+.info{
+    color: white;
+}
+#foto-principal{
+    background-image: url(../img/Snapchat-814443372.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: center;
+}
+.caja2{
+    width: 100%;
+    box-shadow: 10px 15px 20px black;
+    padding: 5%;
+}
+.presentacion{
+    color: white;
+    font-weight: bold;
+    text-align:left;
+}
+.desafios{
+    background-color: rgb(172, 170, 170);
+}
+.desafios h4{
+    font-weight: bold;
+}
+.github a{
+    color: white;
+}
+.mis-desafios{
+    text-align: center;
+    font-weight: bold;
+
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(26, 13, 34);
+}
+.nombre{
+    font-weight: bold;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 50px;
+}
+.icono{
+    color: white;
+}
+.fotos{
+    width: 100% auto;
+}
+.fotos img{
+    padding: 20%;
+}
